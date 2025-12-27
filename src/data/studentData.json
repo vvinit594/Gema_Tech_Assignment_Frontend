@@ -1,0 +1,14 @@
+{
+  "student": {
+    "name": "John Smith",
+    "testDate": "2025-12-20",
+    "testType": "Speaking Assessment"
+  },
+  "scores": {
+    "overall": 7.5,
+    "pronunciation": 8.5,
+    "fluency": 7,
+    "vocabulary": 7.5,
+    "grammar": 7
+  }
+}
